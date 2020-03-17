@@ -1,0 +1,61 @@
+ 
+ 
+ 
+ table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:60%;
+
+
+
+}
+
+
+.container {
+    color: coral;
+    background-color:blanchedalmond;
+margin: 3em;
+border : 1em solid #333;           
+    padding: 3em;
+
+}
+
+body {
+    background-color: blanchedalmond;
+}
+ .container1 {
+    background-color: aquamarine;
+    padding: 3em;
+     /* border: 1em solid #333;*/
+    }
+ .para{
+     padding: 1em;
+ 
+
+}
+ 
+ 
+.classico {
+     display: flex;
+    flex-wrap: 1;
+         }
+    .float1 {
+        
+        float:left;
+    padding-right: 18px;
+padding-top: 10em;
+}
+
+    .clearfix{
+    overflow: auto;
+}
+ /*.clear{
+ }   
+}*/
+    .footer {
+     color: bisque;
+    }
+
+
+ 
+    
